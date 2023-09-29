@@ -1,0 +1,10 @@
+export const iconPDF = 'https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Pdf_File_Type_Adobe_logo_logos-512.png';
+export const defaultProfilePicture = 'https://static.straitstimes.com.sg/s3fs-public/articles/2020/12/01/af_moneyheist_011220.jpg';
+export const emptyChatImage = 'https://i.gadgets360cdn.com/large/whatsapp_multi_device_support_update_image_1636207150180.jpg';
+export const qrCodeImage = 'https://www.ginifab.com/feeds/qr_code/img/qrcode.jpg';
+export const emptyProfilePicture = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png';
+export const whatsappDefaultChatCover = 'https://edge.uacdn.net/static/thumbnail/course/d22ce0e19d9443559a5602baf95aa480.jpeg'
+export const whatsappIcon = 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/768px-WhatsApp.svg.png';
+export const pdfImage = 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/640px-PDF_file_icon.svg.png';
+export const docImage = 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/1481px-Google_Docs_logo_%282014-2020%29.svg.png';
+export const otherFile = 'https://cdn-icons-png.flaticon.com/512/82/82100.png';
